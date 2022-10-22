@@ -1,0 +1,29 @@
+Metadata-Version: 2.1
+Name: PyDebugFunc
+Version: 1.0.0
+Summary: A simple decorator to debug functions
+Home-page: https://github.com/minha-logica/pydebugfunc
+Author: Tiago Bandeira
+Author-email: tecnicotronfullstack@gmail.com
+License: MIT
+Project-URL: Code, https://github.com/minha-logica/pydebugfunc
+Project-URL: Download, https://github.com/minha-logica/pydebugfunc/archive/refs/heads/main.zip
+Keywords: python debug function
+Platform: UNKNOWN
+Classifier: Development Status :: 5 - Production/Stable
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Natural Language :: Portuguese (Brazilian)
+Classifier: Operating System :: OS Independent
+Classifier: Topic :: Software Development :: Debuggers
+Classifier: Programming Language :: Python :: 2.4
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Programming Language :: Python :: 3.7
+Classifier: Programming Language :: Python :: 3.8
+Classifier: Programming Language :: Python :: 3.9
+Classifier: Programming Language :: Python :: 3.10
+License-File: LICENSE.txt
+
+PyDebugFunc catches the exception thrown by your function.  If there is an error, the type of error and the name of the function will be displayed.Therefore, we avoid repeating try / except blocks.
+

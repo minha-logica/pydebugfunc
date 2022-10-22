@@ -1,0 +1,10 @@
+LICENSE.txt
+README.md
+setup.cfg
+setup.py
+PyDebugFunc/__init__.py
+PyDebugFunc/pydebugfunc.py
+PyDebugFunc.egg-info/PKG-INFO
+PyDebugFunc.egg-info/SOURCES.txt
+PyDebugFunc.egg-info/dependency_links.txt
+PyDebugFunc.egg-info/top_level.txt
