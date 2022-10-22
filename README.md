@@ -1,4 +1,4 @@
-#PyDebugFunc
+# PyDebugFunc
 
 **PyDebugFunc** é um simples decorador para te ajudar a encontrar erro de exceção nas suas funções.
 
@@ -16,7 +16,7 @@ def my_function(a, b)
 my_function(10, 0)
 ```
 
-###Output example
+### Output example
 
 `Function error 'my_function()': division by Zero`
 
