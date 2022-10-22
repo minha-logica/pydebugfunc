@@ -1,0 +1,1 @@
+from .pydebugfunc import debug
