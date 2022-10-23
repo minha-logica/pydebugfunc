@@ -11,7 +11,7 @@
 from PyDebugFunc import debug
 
 @debug
-def my_function(a, b)
+def my_function(a, b):
   return a / b
 my_function(10, 0)
 ```
