@@ -4,7 +4,7 @@ setup(
     name = 'PyDebugFunc',
     version = '1.0.0',
     author = 'Tiago Bandeira',
-    author_email = 'tecnicotronfullstack@gmail.com',
+    author_email = 'minhalogicameme@gmail.com',
     packages = ['PyDebugFunc'],
     description = 'A simple decorator to debug functions',
     long_description = 'PyDebugFunc catches the exception thrown by your function.  If there is an error, the type of error and the name of the function will be displayed.' + 'Therefore, we avoid repeating try / except blocks.',
